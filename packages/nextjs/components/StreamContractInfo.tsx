@@ -39,7 +39,7 @@ export const StreamContractInfo = () => {
         <div className="flex gap-2 items-baseline">
           <div className="flex flex-col items-center">
             <Address address={streamContract?.address} />
-            <span className="text-xs text-[#f01a37]">Optimism</span>
+            <span className="text-xs text-[#f01a37]">Mainnet</span>
           </div>{" "}
           /
           <Balance address={streamContract?.address} className="text-3xl" />
