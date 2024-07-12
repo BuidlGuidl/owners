@@ -1,5 +1,5 @@
 export default {
-  10: [
+  1: [
     {
       name: "mainnet",
       chainId: "1",
