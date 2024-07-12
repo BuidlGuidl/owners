@@ -1,11 +1,11 @@
 export default {
   10: [
     {
-      name: "optimism",
-      chainId: "10",
+      name: "mainnet",
+      chainId: "1",
       contracts: {
         SandGardenStreams: {
-          address: "0x8d84f7E545F69746e4A1CAD0F7ac9A83CCDF2C65",
+          address: "0x1c873c172662c3774D089aB967911bC32C04bb08",
           abi: [
             {
               inputs: [],
