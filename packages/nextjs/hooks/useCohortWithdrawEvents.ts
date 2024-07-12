@@ -17,7 +17,7 @@ export const useCohortWithdrawEvents = () => {
   const [{ data: newWithdrawEventsData, fetching: isLoadingNew }] = useQuery({
     query: WithdrawalsQuery,
     variables: {
-      cohortAddress: contracts[10][0].contracts.SandGardenStreams.address,
+      cohortAddress: contracts[1][0].contracts.SandGardenStreams.address,
     },
   });
 
