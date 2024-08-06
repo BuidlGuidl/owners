@@ -7,14 +7,14 @@ const Home: NextPage = () => {
   return (
     <>
       <div className="max-w-3xl px-4 py-8">
-        {/* <h1 className="text-4xl font-bold mb-8 text-primary-content bg-primary inline-block p-2">Mercs</h1> */}
+        {/* <h1 className="text-4xl font-bold mb-8 text-primary-content bg-primary inline-block p-2">Owners</h1> */}
         <div>
           <p className="mt-0">
             Funding{" "}
             <Link href="/members" className="link link-primary">
-              BuidlGuidl Mercs
+              Project Owners
             </Link>{" "}
-            with oETH streams for quietly having important impact on Ethereum.
+            with ETH streams for owning projects or cohorts within the BuidlGuidl.
           </p>
           {/* <p>
             <
